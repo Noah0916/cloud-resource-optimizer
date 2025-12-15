@@ -1,0 +1,12 @@
+provider,cost_per_month,usage_percent
+Azure,120,15
+AWS,95,80
+Google,60,25
+Azure,200,10
+AWS,40,50
+provider,cost_per_month,usage_percent
+Azure,120,15
+AWS,95,80
+Google,60,25
+Azure,200,10
+AWS,40,50

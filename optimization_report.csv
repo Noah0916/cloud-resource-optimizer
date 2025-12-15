@@ -1,0 +1,11 @@
+provider,cost_per_month,usage_percent,recommendation,optimized_cost,savings
+Azure,120,15,Downsize,60.0,60.0
+AWS,95,80,Keep,95.0,0.0
+Google,60,25,Downsize,30.0,30.0
+Azure,200,10,Downsize,100.0,100.0
+AWS,40,50,Keep,40.0,0.0
+Azure,120,15,Downsize,60.0,60.0
+AWS,95,80,Keep,95.0,0.0
+Google,60,25,Downsize,30.0,30.0
+Azure,200,10,Downsize,100.0,100.0
+AWS,40,50,Keep,40.0,0.0

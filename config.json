@@ -1,0 +1,4 @@
+{
+  "downsize_usage_lt": 30.0,
+  "stop_usage_lt": 5.0
+}
