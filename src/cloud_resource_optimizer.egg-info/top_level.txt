@@ -1,2 +1,0 @@
-cloudopt
-cloudopt_cli
