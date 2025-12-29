@@ -7,8 +7,9 @@ import json
 from collections import defaultdict
 from typing import Optional
 
-from src.data_models import Resource
-from src.rules_engine import RuleEngine, Thresholds, StopIdleRule, DownsizeRule
+from cloudopt.data_models import Resource
+from cloudopt.rules_engine import RuleEngine, Thresholds, StopIdleRule, DownsizeRule
+
 
 # Exit codes
 EXIT_OK = 0

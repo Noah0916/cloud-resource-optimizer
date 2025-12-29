@@ -11,3 +11,4 @@ RUN pip install --no-cache-dir .
 
 # Run the CLI by default
 ENTRYPOINT ["python", "-m", "cloudopt.job_runner"]
+

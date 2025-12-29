@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: cloud-resource-optimizer
+Version: 0.1.1
+Summary: Cloud cost optimization CLI
+Requires-Python: >=3.10
+Requires-Dist: azure-identity>=1.16.0
+Requires-Dist: azure-storage-blob>=12.20.0

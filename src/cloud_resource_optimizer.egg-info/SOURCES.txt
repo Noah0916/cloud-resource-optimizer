@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/cloud_resource_optimizer.egg-info/PKG-INFO
+src/cloud_resource_optimizer.egg-info/SOURCES.txt
+src/cloud_resource_optimizer.egg-info/dependency_links.txt
+src/cloud_resource_optimizer.egg-info/entry_points.txt
+src/cloud_resource_optimizer.egg-info/requires.txt
+src/cloud_resource_optimizer.egg-info/top_level.txt
+src/cloudopt/__init__.py
+src/cloudopt/data_models.py
+src/cloudopt/job_runner.py
+src/cloudopt/rules_engine.py
+src/cloudopt_cli/__init__.py
+src/cloudopt_cli/__main__.py
+src/cloudopt_cli/cli.py
