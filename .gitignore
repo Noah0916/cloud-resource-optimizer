@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+*.log
+logs/
+optimization_report.csv
+src/cloud_resource_optimizer.egg-info/
