@@ -7,3 +7,9 @@ build/
 logs/
 optimization_report.csv
 src/cloud_resource_optimizer.egg-info/
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+crash.log
