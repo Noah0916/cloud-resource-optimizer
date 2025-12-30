@@ -1,0 +1,18 @@
+﻿__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+*.log
+logs/
+optimization_report.csv
+src/cloud_resource_optimizer.egg-info/
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+crash.log
+# Terraform state (never commit)
+*.tfstate
+*.tfstate.*
