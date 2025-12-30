@@ -13,3 +13,6 @@ src/cloud_resource_optimizer.egg-info/
 *.tfstate.*
 .terraform.lock.hcl
 crash.log
+# Terraform state (never commit)
+*.tfstate
+*.tfstate.*
