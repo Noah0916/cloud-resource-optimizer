@@ -5,12 +5,16 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "cloud-resource-optimizer"
 version = "0.1.1"
-description = "Cloud cost optimization CLI"
+description = "Python CLI tool to analyze and optimize cloud resource costs"
+readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
   "azure-identity>=1.16.0",
   "azure-storage-blob>=12.20.0",
 ]
+
+[project.scripts]
+cloudopt = "cloudopt_cli.cli:main"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
@@ -18,5 +22,3 @@ package-dir = {"" = "src"}
 [tool.setuptools.packages.find]
 where = ["src"]
 
-[project.scripts]
-cloudopt = "cloudopt_cli.cli:main"
